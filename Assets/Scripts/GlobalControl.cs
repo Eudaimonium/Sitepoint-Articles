@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using System;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.IO;
-using UnityEngine.SceneManagement;
 
 /// <summary>
 /// Game Master class, needs to be in every level.
